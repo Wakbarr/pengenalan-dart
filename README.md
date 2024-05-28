@@ -1,3 +1,6 @@
 # pengenalan01
 
-A new Flutter project.
+## Tech Stack:
+### 1. dart
+
+## Author: Akbar Widianto
